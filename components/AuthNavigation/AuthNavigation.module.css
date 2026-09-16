@@ -1,0 +1,4 @@
+.navigationItem { display: flex; align-items: center; gap: 12px; }
+.navigationLink { color: inherit; text-decoration: none; }
+.userEmail { margin: 0; }
+.logoutButton { border: 0; background: transparent; cursor: pointer; font: inherit; }
